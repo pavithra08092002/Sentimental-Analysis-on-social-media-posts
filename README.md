@@ -1,4 +1,4 @@
-# Emotion Detection in Text using Natural Language Processing
+# Sentimental Analysis on social media posts
 
 <img src="./images/index.png"/>
 
